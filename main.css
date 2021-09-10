@@ -3,20 +3,20 @@ html {
 }
 
 a:link, a:active, a:visited {
-    color: #005080;
+    color: #EAEAEA;
 }
 
 a:hover {
-    color: #ff0000;
+    color: #8c8c8c;
 }
 
 div.menu a {
-    color: #ffffff;
-    background-color: #3080b0;
+    color: #EAEAEA;
+    background-color: #131418;
 }
 
 td {
-    border-color: #2070a0;
+    border-color: #003fa0;
 }
 
 div.tooltip {

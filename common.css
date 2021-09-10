@@ -5,7 +5,8 @@ a {
 body {
     font-family: Verdana, sans-serif;
     line-height: 1.4;
-    background-color: #dddddd;
+    color: #EAEAEA;
+    background-color: #131418;
 }
 
 div.menu {
@@ -16,12 +17,12 @@ div.menu a {
     display: inline-block;
     padding: 12px;
     border-radius: 13px;
-    border: 1px solid #000000;
+    border: 1px solid #EAEAEA;
     margin: 5px;
 }
 
 div.menu a:hover {
-    border: 5px solid #000000;
+    border: 5px solid #EAEAEA;
     margin: 1px;
 }
 
@@ -71,7 +72,7 @@ td.main {
     border-radius: 13px;
     border-spacing: 0;
     padding: 15px;
-    background-color: #ffffff;
+    background-color: #0d0e10;
 }
 
 .cent, .cent * {
