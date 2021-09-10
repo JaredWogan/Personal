@@ -53,6 +53,11 @@ p.back {
     font-size: 75%;
 }
 
+table {
+    border-collapse: separate;
+    border-spacing: 5px;
+}
+
 table.main {
     max-width: 930px;
     text-align: left;
